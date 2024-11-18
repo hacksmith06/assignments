@@ -1,4 +1,0 @@
-file.txt, "success" -> replace this "failure"
-
-
-sed -i '5s/Success/Failure/g' file.txt
